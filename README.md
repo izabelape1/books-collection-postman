@@ -4,7 +4,7 @@ Welcome to the API collection for the "Book Store" online store. This collection
  1. Download and install [Postman](https://www.postman.com/downloads/) or run in a web browser [Postman web version](https://www.postman.com/).
  2. Copy link to my collection: https://blue-star-656429.postman.co/workspace/My-Workspace~a8bb4542-626e-4d98-8d68-75d4bb818fef/collection/25449881-adb14ac2-d391-4e83-8b9b-90b3438e67e6?action=share&creator=25449881
  3. Open Postman and select "Import" from the sidebar.
- 4. Wklej skopiowany link i zaimportuj kolekcję.
+ 4. Paste the copied link and import the collection.
 ## Examples of Use
 ### Token generation and saving the received Token to environment variables
 1. Select the "POST Token generation" endpoint from the collection (from the "Api-clients" folder).
@@ -25,6 +25,7 @@ Welcome to the API collection for the "Book Store" online store. This collection
 3. In the "Pre request script" tab:
 - assigning a variable named "bookId" a random number from 1 to 6
 - assigning a variable named "customerName" to a random name
+4. Click the "Send" button to make a POST request.
 
    
   
