@@ -14,9 +14,9 @@ The tests are written in JavaScript
 4. Delete an order
 5. Using collection variables, environment variables and dynamic variables
 6. Extracting data from responses and storing them in variables
-## Tests performed:
+## Tests performed
 1. Verification if response returns http code 200, 201 and 204
-2.Verification of the list of elements that it contains the previously added orderId in the response.
+2. Verification of the list of elements that it contains the previously added orderId in the response.
 
 
 
